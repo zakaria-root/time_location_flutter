@@ -1,6 +1,27 @@
-# untitled
+# Time_location with Flutter
+> this mobile application can tell you the time in different location or cities around the world
 
-A new Flutter project.
+ <h1 align="center">
+  <br>
+<img src='images/home day.png' width='400'/> 
+<img src='images/home night.png' width='400'/> 
+  <br/>
+  Home Page
+</h1>
+
+ <h1 align="center">
+  <br>
+<img src='images/location.png' width='400'/> 
+  <br/>
+  Locaiton Page
+</h1>
+
+# Demonstration video
+
+https://user-images.githubusercontent.com/71181493/213521947-bca00ff2-5d1a-4cb2-8e1d-9241dce41116.mp4
+
+
+
 
 ## Getting Started
 
